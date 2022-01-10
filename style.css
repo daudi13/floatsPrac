@@ -17,13 +17,23 @@ html {
 	border: 1px solid blue;
 }
 
-img {
-	float: left;
-	margin:0 20px 0 0;
+.wrapper__box {
+	height: 100px;
+	width: 100px;
 }
 
-p {
-	font-size: 14px;
+.blue { 
+  background-color: blue;
+  float: right;
+}
+
+.red { 
+  background-color: red;
+  float: left;
+}
+
+.green { 
+  background-color: green;
 }
 
 
