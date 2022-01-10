@@ -9,7 +9,6 @@ html {
 	box-sizing: border-box;
 }
 
-
 .wrapper {
 	background: #fff;
 	max-width: 960px;
@@ -18,5 +17,13 @@ html {
 	border: 1px solid blue;
 }
 
+img {
+	float: left;
+	margin:0 20px 0 0;
+}
+
+p {
+	font-size: 14px;
+}
 
 
